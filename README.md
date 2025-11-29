@@ -1,5 +1,6 @@
 # Was Skip Bayless Right About LeBron's "Cake-Walk" Through the East?: A Data-Driven Analysis :cake:  
-It’s true that 2 things can be true at once. It’s true that LeBron James is a historically great talent on the basketball court. If you ask Skip Bayless, it’s also true that LeBron had a “cake-walk” through the Eastern Conference to reach his first 9 appearances in the NBA finals. I’ve listened to Skip talk “cake-walk” and LeBron James for years. I happened to love a great debate as much as a great basketball game. Skip has been critical of LeBron’s career since his first day as a professional. Skip is often critical, cold, and calculated based off what he calls his "eye test". The statistician in me has always wondered if Skip actually sees something we don’t in LeBron’s game. I’ve always wondered how does Skip see a “cake-walk” instead of pure greatness? In this analysis I will translate Skip's "cake-walk" talk into measurable terms and finally settle whether or not LeBron James had a "cake-walk" in the Eastern Conference.  
+#### Omar El-Ghirani | December 17th, 2024  
+ It’s true that 2 things can be true at once. It’s true that LeBron James is a historically great talent on the basketball court. If you ask Skip Bayless, it’s also true that LeBron had a “cake-walk” through the Eastern Conference to reach his first 9 appearances in the NBA finals. I’ve listened to Skip talk “cake-walk” and LeBron James for years. I happened to love a great debate as much as a great basketball game. Skip has been critical of LeBron’s career since his first day as a professional. Skip is often critical, cold, and calculated based off what he calls his "eye test". The statistician in me has always wondered if Skip actually sees something we don’t in LeBron’s game. I’ve always wondered how does Skip see a “cake-walk” instead of pure greatness? In this analysis I will translate Skip's "cake-walk" talk into measurable terms and finally settle whether or not LeBron James had a "cake-walk" in the Eastern Conference.  
 
 **Spoiler Alert: Skip has a point to make about LeBron’s trips to the Finals in the East.**  
 
@@ -61,9 +62,7 @@ So we have to give Skip credit that he was right that LeBron had an advantage in
 ## Data Sources
 https://www.basketball-reference.com/  
 webscaping code provided in code write up
+ 
 
-## Author
-Omar El-Ghirani  
-December 17th, 2024
 
 
